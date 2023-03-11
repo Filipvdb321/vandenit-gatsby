@@ -23,16 +23,3 @@ intro:
   heading: What we offer
   description: Either hire one of our talented senior developers or contact us for
     a custom software project
-main:
-  heading: "?"
-  description: "?"
-  image1:
-    alt: "?"
-    image: /img/apple-touch-icon.png
-  image2:
-    alt: ??
-    image: /img/apple-touch-icon.png
-  image3:
-    alt: ??
-    image: /img/apple-touch-icon.png
----
