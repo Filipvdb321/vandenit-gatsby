@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+import linkedin from "../img/social/linkedin.svg";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
@@ -61,12 +60,12 @@ const Navbar = () => {
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+              href="https://www.linkedin.com/in/filip-van-den-broeck"
               target="_blank"
               rel="noopener noreferrer"
             >
               <span className="icon">
-                <img src={github} alt="Github" />
+                <img src={linkedin} alt="LinkedIn" />
               </span>
             </a>
           </li>
