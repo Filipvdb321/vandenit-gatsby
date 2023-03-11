@@ -17,8 +17,7 @@ intro:
         Contact us to see what we can do for your project.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    We have years of experience in IT consultancy. All our developers are
+        highly passionate and constantly strive for the best quality. Contact us
+        to see what we can offer.
 ---
