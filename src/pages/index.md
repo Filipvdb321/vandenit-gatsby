@@ -1,16 +1,15 @@
 ---
 templateKey: index-page
 title: Vanden IT
-image: /img/home-jumbotron.jpg
-heading: Vanden IT
-subheading: IT consultancy and software projects
+image: /img/nolan-issac-it0dcacbr40-unsplash.jpeg
+heading: Talented developers for creative IT projects
+subheading: IT consultancy and creative software projects
 mainpitch:
-  title: Why Vanden IT
-  description: Provides reliable software services.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Passion for IT
+  description: We use our passion for IT to produce the highest quality software
+    products at a minimal cost.
+description: Either hire one of our talented senior developers or contact us for
+  a custom software project
 intro:
   blurbs:
     - image: /img/coffee.png
