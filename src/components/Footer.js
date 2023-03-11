@@ -53,6 +53,9 @@ const Footer = () => {
                         Contact
                       </Link>
                     </li>
+                    <li className="text">
+                      VAT BE0768.999.370
+                    </li>
                   </ul>
                 </section>
               </div>
